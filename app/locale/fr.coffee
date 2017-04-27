@@ -563,14 +563,14 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
 #    tip_programming_not_about_computers: "Computer Science is no more about computers than astronomy is about telescopes. - Edsger Dijkstra"
 #    tip_mulan: "Believe you can, then you will. - Mulan"
 
-  play_game_dev_level:
+  play_game_dev_level: 
 #    created_by: "Created by {{name}}"
 #    restart: "Restart Level"
     play: "Jouer le niveau"
 #    play_more_codecombat: "Play More CodeCombat"
 #    default_student_instructions: "Click to control your hero and win your game!"
 
-  game_menu:
+  game_menu: "Menu du jeu"
     inventory_tab: "Inventaire"
     save_load_tab: "Sauvegarder/Charger"
     options_tab: "Options"
@@ -587,7 +587,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     multiplayer_caption: "Jouer avec des amis !"
     auth_caption: "Sauvegarder votre progression."
 
-  leaderboard:
+  leaderboard: "Tableau des scores"
     view_other_solutions: "Voir les autres solutions" # {change}
     scores: "Scores"
     top_players: "Classement des meilleurs joueurs"
@@ -600,7 +600,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     difficulty: "Difficulté"
     gold_collected: "Or collecté"
 
-  inventory:
+  inventory: "Inventaire"
     equipped_item: "Equipé"
     required_purchase_title: "Requis"
     available_item: "Disponible"
@@ -612,7 +612,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     equip: "Equiper"
     unequip: "Retirer"
 
-  buy_gems:
+  buy_gems: "Acheter des gems"
     few_gems: "Quelques gemmes"
     pile_gems: "Pile de gemmes"
     chest_gems: "Coffre de gemmes"
@@ -628,7 +628,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
 #    purchase: "Purchase"
 #    purchased: "Purchased"
 
-  subscribe:
+  subscribe: " S'abonner"
 #    subscribe_modal_title: "CodeCombat Premium"
     comparison_blurb: "Aiguisez vos compétences avec un abonnement CodeCombat !" # {change}
 #    premium_pricing_prefix: "Get Premium for just"
@@ -788,7 +788,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     level_to_unlock: "Niveau à débloquer :" # Label for which level you have to beat to unlock a particular hero (click a locked hero in the store to see)
     restricted_to_certain_heroes: "Seulement certains héros peuvent jouer ce niveau."
 
-  skill_docs:
+  skill_docs: " livre des sorts"
     function: "fonction" # skill types
     method: "méthode"
 #    snippet: "snippet"
@@ -817,11 +817,11 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     returns: "Retour"
     granted_by: "Accordé par"
 
-  save_load:
+  save_load: "Partie chargée"
     granularity_saved_games: "Sauvegardé"
     granularity_change_history: "Historique"
 
-  options:
+  options: " Otpions"
     general_options: "Options Générales" # Check out the Options tab in the Game Menu while playing a level
     volume_label: "Volume"
     music_label: "Musique"
@@ -836,7 +836,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     editor_config_behaviors_label: "Auto-complétion"
     editor_config_behaviors_description: "Ferme automatiquement les accolades, parenthèses, et chaînes de caractères."
 
-  about:
+  about: " A propos"
     main_title: "Si tu veux apprendre la programmation, tu dois écrire beaucoup de code."
     main_description: "Chez CodeCombat, notre but est d'assurer que tu le fasses avec un sourire."
     mission_link: "Mission"
@@ -929,7 +929,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
 #  teachers:
 #    licenses_needed: "Licenses needed"
 
-  special_offer:
+  special_offer: "Offres Spéciales"
 #    special_offer: "Special Offer"
 #    project_based_title: "Project-Based Courses"
 #    project_based_description: "Web and Game Development courses feature shareable final projects."
@@ -970,7 +970,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     course_prefix: "Cours"
     course_suffix: ""
 
-  teachers_quote:
+  teachers_quote:" Commentaires des enseignants"
 #    subtitle: "Get your students started in less than an hour. You'll be able to <strong>create a class, add students, and monitor their progress</strong> as they learn computer science."
 #    email_exists: "User exists with this email."
 #    phone_number: "Phone number"
@@ -1192,7 +1192,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     track_concepts8: "Joindre"
     private_require_sub: "Les clans privés nécessitent un abonnement pour être créés ou rejoins."
 
-  courses:
+  courses: "Parcours"
     create_new_class: "Créer une Nouvelle Classe"
     unnamed_class: "Classe sans nom"
     edit_settings1: "Modifier les Réglages de la Classe"
@@ -1336,7 +1336,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
 #    course_membership_required_to_play: "You'll need to join a course to play this level."
 #    license_required_to_play: "Ask your teacher to assign a license to you so you can continue to play CodeCombat!"
 
-  teacher:
+  teacher:" Professeur"
 #    assigning_course: "Assigning course"
 #    course_solution: "Course Solution"
 #    level_overview_solutions: "Level Overview and Solutions"
@@ -1593,7 +1593,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
 #    teacher_quest_less: "See fewer quests"
 #    refresh_to_update: "(refresh the page to see updates)"
 
-  sharing:
+  sharing: "Partager"
     game: "Jeu"
     webpage: "Page web"
 #    your_students_preview: "Your students will click here to see their finished projects! Unavailable in teacher preview."
@@ -1613,7 +1613,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
   game_dev:
     creator: "Créateur"
 
-  web_dev:
+  web_dev:"Developeur Web"
 #    image_gallery_title: "Image Gallery"
 #    select_an_image: "Select an image you want to use"
 #    scroll_down_for_more_images: "(Scroll down for more images)"
